@@ -281,3 +281,11 @@ Compiled and maintained from upstream [holaboss-ai/holaOS](https://github.com/ho
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
