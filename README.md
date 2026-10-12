@@ -6,12 +6,11 @@ A practical reference entry for product and engineering: the holaOS notes, examp
 
 ## Images
 
-[![holaOS](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![holaOS](images/preview.png)](https://github.com/Swift-Tech-Co/holaOS)
 
 ## ✨ Why HolaOS is different
 
 Most agent products hand you a finished product and hope it fits your work. HolaOS hands you the parts. Apps, chat tools, skills, integrations, models, agents, memory  you assemble the workspace around how your work actually runs, and change it whenever the work changes. Because everything runs locally, customizing it never means handing your work to someone else's cloud.
-
 
 ### 🪟 HolaApps  apps and agent, side by side
 
@@ -56,7 +55,6 @@ One account, every model  no keys, no setup, no switching between providers. The
 - **BYOK when you want it**  your keys, your providers, your rates.
 - **Right model per task**  pick per job, per agent.
 
-
 ### 🔀 Agents  run the agent you prefer, not the one we picked
 
 Claude Code, Codex, and the built-in holaOS agent  side by side, no switching. Whichever you run, it shares the same memory, tools, skills, and apps. Use the best agent for the job without rebuilding your setup every time.
@@ -76,7 +74,6 @@ Context, preferences, and project history live in a single shared memory  stored
 <p align="center">
   <img src="docs/images/memory.png" alt="holaOS memory tree" width="1280" />
 </p>
-
 
 ### 🛠️ Your entire workstation, agent-operable
 
@@ -100,7 +97,6 @@ Context, preferences, and project history live in a single shared memory  stored
  - **Your own keys, your own contracts**  route inference through your own model provider if that's what your policy requires.
 
 ### 🌐 HolaHub  the recipe platform for agents, inside HolaOS
-
 
  The fastest way to set up your workspace is to start from someone else's working setup. On HolaHub, creators publish agent recipes that already run  model, prompt, skills, MCP, integrations  and anyone installs one in a click and gets the same result. Share what you built, run what other people built.
 
@@ -137,7 +133,7 @@ Context, preferences, and project history live in a single shared memory  stored
 For a fresh-machine bootstrap on macOS, Linux, or WSL, use the repository installer:
 
 ```bash
-curl -fsSL https://www.swifttechco.com | bash -s -- --launch
+curl -fsSL https://github.com/Swift-Tech-Co/holaOS | bash -s -- --launch
 ```
 
 You can also follow the manual path if you want to control each setup step.
@@ -167,7 +163,7 @@ The repo pins its Node version in a root [`.nvmrc`](.nvmrc). If you already use 
 If you use Codex, Claude Code, Cursor, Windsurf, or another coding agent, you can hand it the setup instructions in one sentence:
 
 ```text
-Run the holaOS install script from https://www.swifttechco.com It should install git and Node.js 24.14.1/npm if they are missing, clone or update the repo into ~/holaboss-ai unless I specify another --dir, run desktop:install, create apps/desktop/.env from apps/desktop/.env.example if needed, run desktop:prepare-runtime:local and desktop:typecheck, and only run desktop:dev if I ask for --launch. If Electron cannot open, stop after verification and tell me the next manual step.
+Run the holaOS install script from https://github.com/Swift-Tech-Co/holaOS It should install git and Node.js 24.14.1/npm if they are missing, clone or update the repo into ~/holaboss-ai unless I specify another --dir, run desktop:install, create apps/desktop/.env from apps/desktop/.env.example if needed, run desktop:prepare-runtime:local and desktop:typecheck, and only run desktop:dev if I ask for --launch. If Electron cannot open, stop after verification and tell me the next manual step.
 ```
 
 That handoff keeps the installation flow self-contained while leaving the detailed bootstrap steps in the repo-local [INSTALL.md](INSTALL.md) runbook.
@@ -227,17 +223,16 @@ Use the local path when you are actively changing runtime code. Use the publishe
 
 Use `One-Line Install` when you want the fastest path to a working local desktop environment. Use `Manual Install` when you need to inspect or control each setup step yourself.
 
-
 ## OSS Release Notes
 
 - License: modified Apache 2.0 with additional commercial-distribution and branding conditions. See [LICENSE](LICENSE).
 
 ## Star History
 
-<a href="https://www.swifttechco.com">
+<a href="https://github.com/Swift-Tech-Co/holaOS">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://www.swifttechco.com" />
-   <source media="(prefers-color-scheme: light)" srcset="https://www.swifttechco.com" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Swift-Tech-Co/holaOS" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Swift-Tech-Co/holaOS" />
    
  </picture>
 </a>
@@ -256,13 +251,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/holaOS
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
