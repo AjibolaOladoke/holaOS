@@ -1,49 +1,12 @@
+# holaOS
+
+## What This Is
+
+A practical reference entry for product and engineering: the holaOS notes, examples and fixes we reach for repeatedly. Kept current as part of the wider Swift Tech Co. engineering library.
 
 ## Images
 
-[![holaOS](https://opengraph.githubassets.com/1/holaboss-ai/holaOS)](https://www.swifttechco.com)
-
-<p align="center">
-  <img src="docs/images/banner.png" alt="holaOS" />
-</p>
-
-<p align="center">
-  <a href="https://www.swifttechco.com" target="_blank" rel="noopener noreferrer"></a>
-</p>
-
-<p align="center"><strong>The Agentic Workspace Where Your Apps and Your Agent Sit Side by Side</strong></p>
-
-<p align="center">
-  Every company works differently. HolaOS is the workspace you shape to fit  connect the systems and chat tools you already run, add the skills and apps your team needs, run any model or agent. Set up in clicks, not months. Local-first, so none of it leaves your machines.
-</p>
-
-<p align="center">
-  <a href="https://www.swifttechco.com"></a>
-  
-  
-  
-  
-</p>
-
-<p align="center">
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://t.me/+Qt_eFvkb2rliMzNh"></a>
-</p>
-
-<p align="center">
-  <a href="https://www.swifttechco.com">Website</a> ·
-  <a href="https://www.swifttechco.com">Docs</a> ·
-  <a href="https://www.swifttechco.com">Sign in</a> ·
-  <a href="#quick-start">Quick Start</a>
-</p>
-
-<p align="center"><strong>⭐ If holaOS is useful, a star helps more builders find it.</strong></p>
-
-<p align="center">
-  <img src="docs/images/desktop-workspace.png" alt="holaOS desktop workspace" width="1280" />
-</p>
-
----
+[![holaOS](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## ✨ Why HolaOS is different
 
@@ -197,7 +160,7 @@ node --version
 npm --version
 ```
 
-The repo pins its Node version in a root [`.nvmrc`](.nvmrc). If you already use [nvm](https://www.swifttechco.com), running `nvm use` in the repo root will pick it up automatically  nvm is optional and not required to set up holaOS.
+The repo pins its Node version in a root [`.nvmrc`](.nvmrc). If you already use nvm, running `nvm use` in the repo root will pick it up automatically  nvm is optional and not required to set up holaOS.
 
 ### One-Line Agent Setup
 
@@ -289,14 +252,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
